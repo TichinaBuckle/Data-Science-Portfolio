@@ -10,6 +10,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
 	+ [Bellabeats Case Study](#bellabeats-case-study)
+	+ [The Impact of Milk: How Dairy and Plant-Based Milks impact Us And Our Planet](#the-impact-of-milk:-how-dairy-and-plant-based-milks-impact-us-and-our-planet)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
@@ -29,7 +30,7 @@ A collection of my personal projects in my data analysis journey
 <br>
 **Results:**
 
-### Milk Comparison
+### The Impact of Milk: How Dairy and Plant-Based Milks impact Us And Our Planet
 **Presentation:**
 <br>
 **Code:**
