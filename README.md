@@ -7,11 +7,12 @@ Hi, I'm Tichina (or Alex)! A Computer Science student passionate about Data, and
 ## Table of Contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-	+ [Bellabeats Case Study](#bellabeats_case_study)
+	+ [Bellabeats Case Study](#bellabeats-case-study)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
 ## Portfolio Projects
+A collection of my personal projects in my data analysis journey
 
 ### Bellabeats Case Study
 **Presentation:**
