@@ -27,8 +27,6 @@ A collection of my personal projects in my data analysis journey
 **Description:** Investigation a dataset containing the user data of 30 fitbit user to gain insights and derive marketing strategies to unlock new growth opportunities for Bellabeat, through analysis of consumers usage of non-bellabeat smart devices and compare trends identified to bellabeat's consumer smart device usage
 <br>
 **Tools:** R Studio, Tableau Public, Google Sheets
-<br>
-**Results:**
 
 ### Dairy vs Plant Milk Analysis
 **Presentation:**
@@ -38,8 +36,6 @@ A collection of my personal projects in my data analysis journey
 **Description:** An analysis of Dairy Milk and popular Plant-based alternates based of the environmental footprint of each, as well as their nutritional contents to offer consumers a well-rounded view of the impact of milks on both our bodies and the planet.
 <br>
 **Tools:** R Studio, Tableau Public, Google Sheets
-<br>
-**Results:**
 
 ## Certificates
 - Google Data Analysis Professional Certification
