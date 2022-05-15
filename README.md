@@ -10,7 +10,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
 	+ [Bellabeats Case Study](#bellabeats-case-study)
-	+ [The Impact of Milk](#the-impact-of-milk)
+	+ [Dairy vs Plant Milk Analysis](#tDairy-vs-Plant-Milk-Analysis)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
@@ -24,18 +24,18 @@ A collection of my personal projects in my data analysis journey
 <br>
 **Tableau Public:**
 <br>
-**Description:** Investigate a dataset containing the user data of 30 fitbit user to gain insights and derive marketing strategies to unlock new growth opportunities for Bellabeat, through analysis of consumers usage of non-bellabeat smart devices and compare trends identified to bellabeat's consumer smart device usage
+**Description:** Investigation a dataset containing the user data of 30 fitbit user to gain insights and derive marketing strategies to unlock new growth opportunities for Bellabeat, through analysis of consumers usage of non-bellabeat smart devices and compare trends identified to bellabeat's consumer smart device usage
 <br>
 **Tools:** R Studio, Tableau Public, Google Sheets
 <br>
 **Results:**
 
-### The Impact of Milk
+### Dairy vs Plant Milk Analysis
 **Presentation:**
 <br>
 **Code:**
 <br>
-**Description:** 
+**Description:** An analysis of Dairy Milk and popular Plant-based alternates based of the environmental footprint of each, as well as their nutritional contents to offer consumers a well-rounded view of the impact of milks on both our bodies and the planet.
 <br>
 **Tools:** R Studio, Tableau Public, Google Sheets
 <br>
