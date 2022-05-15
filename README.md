@@ -7,11 +7,7 @@ Hi, I'm Tichina (or Alex)! A Computer Science student passionate about Data, and
 ## Table of Contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-	+ [Video Games Sales Analysis](#video-games-sales-analysis)
-	+ [A Mobile Game Data Analysis](#a-mobile-game-data-analysis)
-	+ [A Landing Page Design Experiment](#a-landing-page-design-experiment)
-	+ [Online Advertising Campaign Analysis](#online-advertising-campaign-analysis)
-	+ [Airbnb Listings Analytics](#airbnb-listings-analytics)
+	+ [Bellabeats Case Study](#bellabeats_case_study)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
