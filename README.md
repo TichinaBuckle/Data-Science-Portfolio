@@ -13,7 +13,7 @@ Hi, I'm Tichina (or Alex)! A Computer Science student passionate about Data, and
 
 ## Portfolio Projects
 
-###Bellabeats Case Study
+### Bellabeats Case Study
 **Presentation:**
 **Code:**
 **Tableau Public:**
