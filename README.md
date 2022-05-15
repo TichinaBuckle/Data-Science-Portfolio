@@ -29,6 +29,16 @@ A collection of my personal projects in my data analysis journey
 <br>
 **Results:**
 
+### Milks
+**Presentation:**
+<br>
+**Code:**
+<br>
+**Description:**
+<br>
+**Tools:** R Studio, Tableau Public, Google Sheets
+<br>
+**Results:**
 
 ## Certificates
 - Google Data Analysis Professional Certification
