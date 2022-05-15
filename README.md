@@ -15,19 +15,19 @@ Hi, I'm Tichina (or Alex)! A Computer Science student passionate about Data, and
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
-## Projects
+## Portfolio Projects
 
 ###Bellabeats Case Study
 **Presentation:**
-Code:
-Tableau Public:
-Description:
-Tools: R Studio, Tableau Public, Google Sheets
-Results:
+**Code:**
+**Tableau Public:**
+**Description:**
+**Tools:** R Studio, Tableau Public, Google Sheets
+**Results:**
 
 
 ## Certificates
-Google Data Analysis Professional Certification
+- Google Data Analysis Professional Certification
 
 ## Contacts
 - LinkedIn: [@tichinabuckle](https://www.linkedin.com/in/tichinabuckle/)
