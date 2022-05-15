@@ -1,0 +1,110 @@
+#Aurthor: Tichina Buckle
+#Description: Google Data Analytics Capstone Project
+#             Case Study 2: How Can a Wellness Technology Company Play It Smart
+
+#installing tidyverse package used for cleaning and analysis
+install.packages("tidyverse")
+install.packages("ggplot2")
+install.packages("dplyr")
+install.packages("tidyr")
+install.packages("skimr")
+
+#loading packages installed
+library(tidyverse)
+library(ggplot2)
+library(dplyr)
+library(tidyr)
+library(skimr)
+
+#importing dataset and assign to daily_activity
+daily_activity <- read.csv(file.choose())
+#gives the first 6 roles to check data
+head(daily_activity)
+#check the properties of each value in the dataset
+str(daily_activity)
+
+#importing dataset and assign to sleep_day
+sleep_day <- read.csv(file.choose())
+head(sleep_day)
+str(sleep_day)
+
+#importing dataset and assign to weight_log
+weight_log <- read.csv(file.choose())
+head(weight_log)
+str(weight_log)
+
+#changes colnames to to lower case and saves changes in a new dataset called daily_activity_new
+daily_activity_new <- rename_with(daily_activity, tolower)
+#view all column names to verify if changes were successful
+colnames(daily_activity_new)
+#checks the number of row in dataset
+nrow(daily_activity_new)
+#checks the number of unique row in dataset to find duplicates
+nrow(unique(daily_activity_new))
+#no duplicates in this table
+
+sleep_day_new <- rename_with(sleep_day, tolower)
+colnames(sleep_day_new)
+nrow(sleep_day_new)
+nrow(unique(sleep_day_new))
+#3 duplicates rows found
+
+#removes duplicate rows
+sleep_day_new_v2 <- distinct(sleep_day_new)
+#view number of row again to verify changes
+nrow(sleep_day_new_v2)
+
+weight_log_new <- rename_with(weight_log, tolower)
+colnames(weight_log_new)
+nrow(weight_log_new)
+nrow(unique(weight_log_new))
+#no duplicates
+
+#creates new column called total_active_minutes from total of XXX using mutate function
+daily_activity_new_v2 <- daily_activity_new %>%
+  mutate(total_active_minutes = veryactiveminutes + fairlyactiveminutes + lightlyactiveminutes)
+
+#summary of dataframe to help spot connects for analysis
+skim_without_charts(daily_activity_new_v2)
+skim_without_charts(sleep_day_new_v2)
+skim_without_charts(weight_log_new)
+
+summary(daily_activity_new_v2)
+summary(sleep_day_new_v2)
+summary(weight_log_new)
+
+#Scatter and line graph illustrating the relationship between steps taken and calories burned
+ggplot(data = daily_activity_new_v2) +
+  geom_point(mapping = aes(x = totalsteps, y = calories, color = totalsteps)) +
+  geom_smooth(mapping = aes(x = totalsteps, y = calories)) +
+  #Adding Label
+  labs(title = "Calories Burned Vs Total Number of Steps", x = "total number of steps", y = "calories burned")
+
+#creates a single dataframe containing values from daily_activity_new_v2 and weight_log_new by ID
+weight_activity_merged <- merge(daily_activity_new_v2, weight_log_new, by="id")
+#view overview of new dataframe
+head(weight_activity_merged)
+
+#Scatter and line graph illustrating the relationship between steps taken and weight
+ggplot(data = weight_activity_merged) +
+  geom_point(mapping = aes(x = totalsteps, y = weightkg, color = weightkg)) +
+  geom_smooth(mapping = aes(x = totalsteps, y = weightkg)) +
+  #Adding Label
+  labs(title = "Weight Vs Total Number of Steps", x = "total number of steps", y = "weight(kg)")
+
+#creates a single dataframe containing values from daily_activity_new_v2 and sleep_day_new_v2 by ID
+sleep_activity_merged <- merge(daily_activity_new_v2, sleep_day_new_v2, by="id")
+#view overview of new dataframe
+head(sleep_activity_merged)
+
+#relationship between minutes sedentary and total minutes asleep
+ggplot(data = sleep_activity_merged) +
+  geom_smooth(mapping = aes(x = sedentaryminutes, y = totalminutesasleep)) +
+  #Adding Label
+  labs(title = "Minutes Sedentary Vs Total Minutes Asleep", x = "sedentary minutes", y = "total minutes asleep")
+
+#relationship between minutes active and total minutes asleep
+ggplot(data = sleep_activity_merged) +
+  geom_smooth(mapping = aes(x = total_active_minutes, y = totalminutesasleep)) +
+  #Adding Label
+  labs(title = "Minutes Activity Vs Total Minutes Asleep", x = "total active minutes", y = "total minutes asleep")
