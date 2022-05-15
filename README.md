@@ -24,7 +24,7 @@ A collection of my personal projects in my data analysis journey
 <br>
 **Tableau Public:**
 <br>
-**Description:**
+**Description:** Investigate a dataset containing the user data of 30 fitbit user to gain insights and derive marketing strategies to unlock new growth opportunities for Bellabeat, through analysis of consumers usage of non-bellabeat smart devices and compare trends identified to bellabeat's consumer smart device usage
 <br>
 **Tools:** R Studio, Tableau Public, Google Sheets
 <br>
@@ -35,7 +35,7 @@ A collection of my personal projects in my data analysis journey
 <br>
 **Code:**
 <br>
-**Description:** Investigate a dataset containing the user data of 30 fitbit user to gain insights and derive marketing strategies to unlock new growth opportunities for Bellabeat, through analysis of consumers usage of non-bellabeat smart devices and compare trends identified to bellabeat's consumer smart device usage
+**Description:** 
 <br>
 **Tools:** R Studio, Tableau Public, Google Sheets
 <br>
