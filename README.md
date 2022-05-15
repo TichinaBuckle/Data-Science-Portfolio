@@ -29,7 +29,7 @@ A collection of my personal projects in my data analysis journey
 <br>
 **Results:**
 
-### Milks
+### Milk Comparison
 **Presentation:**
 <br>
 **Code:**
