@@ -15,12 +15,12 @@ Hi, I'm Tichina (or Alex)! A Computer Science student passionate about Data, and
 A collection of my personal projects in my data analysis journey
 
 ### Bellabeats Case Study
-**Presentation:**
-**Code:**
-**Tableau Public:**
-**Description:**
-**Tools:** R Studio, Tableau Public, Google Sheets
-**Results:**
+- **Presentation:**
+- **Code:**
+- **Tableau Public:**
+- **Description:**
+- **Tools:** R Studio, Tableau Public, Google Sheets
+- **Results:**
 
 
 ## Certificates
