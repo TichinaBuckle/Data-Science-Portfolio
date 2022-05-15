@@ -32,6 +32,6 @@ A collection of my personal projects in my data analysis journey
 - Google Data Analysis Professional Certification
 
 ## Contacts
-LinkedIn: [@tichinabuckle](https://www.linkedin.com/in/tichinabuckle/)
+**LinkedIn:** [@tichinabuckle](https://www.linkedin.com/in/tichinabuckle/)
 <br>
-E-mail: tichinabuckle@gmail.com
+**E-mail:** tichinabuckle@gmail.com
