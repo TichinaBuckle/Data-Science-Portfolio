@@ -20,7 +20,7 @@ A collection of my personal projects in my data analysis journey
 ### Bellabeats Case Study
 **Presentation:**
 <br>
-**Code:**
+**Code:** [R MarkDown]()
 <br>
 **Description:** Investigation a dataset containing the user data of 30 fitbit user to gain insights and derive marketing strategies to unlock new growth opportunities for Bellabeat, through analysis of consumers usage of non-bellabeat smart devices and compare trends identified to bellabeat's consumer smart device usage
 <br>
@@ -29,7 +29,7 @@ A collection of my personal projects in my data analysis journey
 ### Dairy vs Plant Milk Analysis
 **Presentation:**
 <br>
-**Code:** [R MarkDown]()
+**Code:** 
 <br>
 **Description:** An analysis of Dairy Milk and popular Plant-based alternates based of the environmental footprint of each, as well as their nutritional contents to offer consumers a well-rounded view of the impact of milks on both our bodies and the planet.
 <br>
