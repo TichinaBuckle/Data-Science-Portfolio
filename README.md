@@ -33,7 +33,7 @@ A collection of my personal projects in my data analysis journey
 <br>
 **Description:** An analysis of Dairy Milk and popular Plant-based alternates based of the environmental footprint of each, as well as their nutritional contents to offer consumers a well-rounded view of the impact of milks on both our bodies and the planet.
 <br>
-**Tools:** R Studio, Tableau Public, Google Sheets
+**Tools:** R Studio, Google Sheets
 
 ## Certificates
 - Google Data Analysis Professional Certification
