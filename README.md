@@ -27,9 +27,9 @@ A collection of my personal projects in my data analysis journey
 **Tools:** R Studio, Tableau Public, Google Sheets
 
 ### Dairy vs Plant Milk Analysis
-**Presentation:**[R MarkDown]()
+**Presentation:**
 <br>
-**Code:**
+**Code:** [R MarkDown]()
 <br>
 **Description:** An analysis of Dairy Milk and popular Plant-based alternates based of the environmental footprint of each, as well as their nutritional contents to offer consumers a well-rounded view of the impact of milks on both our bodies and the planet.
 <br>
