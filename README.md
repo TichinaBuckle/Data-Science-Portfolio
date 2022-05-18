@@ -18,7 +18,7 @@ This is a repository to showcase skills, share projects and track my progress in
 A collection of my personal projects in my data analysis journey
 
 ### Bellabeats Case Study
-**Presentation:**
+**Presentation:** [Google Slide Presentation](https://docs.google.com/presentation/d/1g8J6zGIMgqKfzyKkVqLq_z6daM6SgIfH3TxzPFwdANw/edit?usp=sharing)
 <br>
 **Code:** [R MarkDown](https://github.com/Lexciib/Data-Analysis-Portfolio/blob/main/Bellabeat%20Case%20Study.pdf)
 <br>
