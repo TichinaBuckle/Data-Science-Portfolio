@@ -22,7 +22,7 @@ A collection of my personal projects in my data analysis journey
 <br>
 **Code:** [R MarkDown](https://github.com/Lexciib/Data-Analysis-Portfolio/blob/main/Bellabeat%20Case%20Study.pdf)
 <br>
-**Description:** Investigation a dataset containing the user data of 30 fitbit user to gain insights and derive marketing strategies to unlock new growth opportunities for Bellabeat, through analysis of consumers usage of non-bellabeat smart devices and compare trends identified to bellabeat's consumer smart device usage
+**Description:** Investigation a dataset containing the user data of 30 fitbit user to gain insights and derive marketing strategies to unlock new growth opportunities for Bellabeat, through analysis of consumers usage of non-bellabeat smart devices.
 <br>
 **Tools:** R Studio (Data Cleaning and Data Analysis), Tableau Public (Data Visualization), Google Sheets (Data Visualization), Google Slide (Presentation)
 
