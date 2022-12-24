@@ -24,7 +24,7 @@ A collection of my personal projects in my data analysis journey
 <br>
 **Description:** An analysis comparing different university
 <br>
-**Tools:** Juptier Notebook(Data Cleaning and Data Analysis), Tableau(Data Visualization), Google Slide (Presentation)
+**Tools:** Juptier Notebook (Data Cleaning and Data Analysis), Tableau (Data Visualization), Google Slide (Presentation)
 
 ### Bellabeats Case Study
 **Presentation:** [Google Slide Presentation](https://docs.google.com/presentation/d/1g8J6zGIMgqKfzyKkVqLq_z6daM6SgIfH3TxzPFwdANw/edit?usp=sharing)
