@@ -9,13 +9,22 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Table of Contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
+	+ [Majors vs Graduates](#majors-vs-graduates)
 	+ [Bellabeats Case Study](#bellabeats-case-study)
-	+ [Dairy vs Plant Milk Analysis](#tDairy-vs-Plant-Milk-Analysis)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
 ## Portfolio Projects
 A collection of my personal projects in my data analysis journey
+
+### Majors vs Graduates
+**Presentation:**
+<br>
+**Code:** [Markdown](https://github.com/TichinaBuckle/Data-Analysis-Portfolio/blob/main/majors_vs_graduates_v2.ipynb)
+<br>
+**Description:** An analysis comparing different university
+<br>
+**Tools:** Juptier Notebook(Data Cleaning and Data Analysis), Tableau(Data Visualization), Google Slide (Presentation)
 
 ### Bellabeats Case Study
 **Presentation:** [Google Slide Presentation](https://docs.google.com/presentation/d/1g8J6zGIMgqKfzyKkVqLq_z6daM6SgIfH3TxzPFwdANw/edit?usp=sharing)
@@ -26,19 +35,12 @@ A collection of my personal projects in my data analysis journey
 <br>
 **Tools:** R Studio (Data Cleaning and Data Analysis), Tableau Public (Data Visualization), Google Sheets (Data Visualization), Google Slide (Presentation)
 
-### Dairy vs Plant Milk Analysis
-**Presentation:**
-<br>
-**Code:** 
-<br>
-**Description:** An analysis of Dairy Milk and popular Plant-based alternates based of the environmental footprint of each, as well as their nutritional contents to offer consumers a well-rounded view of the impact of milks on both our bodies and the planet.
-<br>
-**Tools:** R Studio, Google Sheets
-
 ## Certificates
 - Google Data Analysis Professional Certification
 
 ## Contacts
 **LinkedIn:** [@tichinabuckle](https://www.linkedin.com/in/tichinabuckle/)
+<br>
+**Kaggle:** [@tichinabuckle](https://www.kaggle.com/tichinabuckle)
 <br>
 **E-mail:** tichinabuckle@gmail.com
