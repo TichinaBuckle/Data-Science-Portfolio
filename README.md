@@ -21,7 +21,7 @@ A collection of my personal projects in my data analysis journey
 <br>
 **Code:** [Markdown](https://github.com/TichinaBuckle/Data-Analysis-Portfolio/blob/main/majors_vs_graduates_v2.ipynb)
 <br>
-**Description:** An analysis comparing different university
+**Description:** An analysis of 173 college major and the expected outcomes of their graduates.
 <br>
 **Tools:** Juptier Notebook (Data Cleaning and Data Analysis), Tableau (Data Visualization), Google Slide (Presentation)
 
