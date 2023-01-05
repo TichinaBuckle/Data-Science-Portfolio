@@ -23,7 +23,7 @@ A collection of my personal projects in my data analysis journey
 <br>
 **Description:** An analysis of 173 college major and the expected outcomes of their graduates.
 <br>
-**Tools:** Juptier Notebook (Data Cleaning and Data Analysis), Tableau (Data Visualization), Google Slide (Presentation)
+**Tools:** Juptier Notebook (Data Cleaning and Data Analysis), Google Sheets (Data Visualization), Canva (Presentation)
 
 ### Bellabeats Case Study
 **Presentation:** [Google Slide Presentation](https://docs.google.com/presentation/d/1g8J6zGIMgqKfzyKkVqLq_z6daM6SgIfH3TxzPFwdANw/edit?usp=sharing)
