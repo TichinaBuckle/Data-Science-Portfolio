@@ -19,7 +19,7 @@ A collection of my personal projects in my data analysis journey
 ### Majors vs Graduates
 **Presentation:** [Presentation](https://www.canva.com/design/DAFWLHPdSKY/XsKzCawyOdRQczlrq6fZUQ/view?utm_content=DAFWLHPdSKY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <br>
-**Code:** [Markdown](https://github.com/TichinaBuckle/Data-Analysis-Portfolio/blob/main/majors_vs_graduates_v2.ipynb)
+**Code:** [Markdown](https://github.com/TichinaBuckle/Data-Analysis-Portfolio/blob/main/majors_vs_graduates_v3.ipynb)
 <br>
 **Description:** An analysis of 173 college major and the expected outcomes of their graduates.
 <br>
