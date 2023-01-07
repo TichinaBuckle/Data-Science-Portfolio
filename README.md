@@ -21,7 +21,7 @@ A collection of my personal projects in my data analysis journey
 <br>
 **Code:** [Markdown](https://github.com/TichinaBuckle/Data-Analysis-Portfolio/blob/main/majors_vs_graduates_v3.ipynb)
 <br>
-**Description:** An analysis of 173 college major and the expected outcomes of their graduates.
+**Description:** An analysis of 173 College majors and the expected outcomes of their Graduates as a means to identify trends and gain insights into the post-graduation jobs markets.
 <br>
 **Tools:** Juptier Notebook (Data Cleaning and Data Analysis), Google Sheets (Data Visualization), Canva (Presentation)
 
