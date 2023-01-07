@@ -35,7 +35,7 @@ A collection of my personal projects in my data analysis/science journey and oth
 **Tools:** R Studio (Data Cleaning and Data Analysis), Tableau Public (Data Visualization), Google Sheets (Data Visualization), Google Slide (Presentation)
 
 ## Certificates
-- Google Data Analysis Professional Certification
+- Google Data Analysis Professional Certificate
 
 ## Contacts
 **LinkedIn:** [@tichinabuckle](https://www.linkedin.com/in/tichinabuckle/)
