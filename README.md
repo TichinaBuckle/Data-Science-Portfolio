@@ -14,7 +14,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Contacts](#contacts)
 
 ## Portfolio Projects
-A collection of my personal projects in my data analysis journey
+A collection of my personal projects in my data analysis/science journey and other related projects
 
 ### Majors vs Graduates
 **Presentation:** [Canva Presentation](https://www.canva.com/design/DAFWLHPdSKY/XsKzCawyOdRQczlrq6fZUQ/view?utm_content=DAFWLHPdSKY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
