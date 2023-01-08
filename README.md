@@ -3,7 +3,7 @@
 ## About
 Hi, I'm Tichina (or Alex)! A Computer Science student passionate about Data, and the intersection between Analytics and Art to make Data-Driven Decisions and tell Stories, pursing a career in Data Science.
 <br>
-This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics
+Welcome to my Data Scientist portfolio repository! Here you will find a collection of my data science projects and writings, as well as my resume and LinkedIn profile. These materials demonstrate my skills, experience, and achievements as a data scientist. I hope they give you a sense of the value I can bring to your team or project. Thank you for visiting!
 
 ## Table of Contents
 - [About](#about)
