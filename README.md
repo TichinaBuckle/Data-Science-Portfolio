@@ -1,7 +1,7 @@
 # Tichina Buckle - Data Analysis Portfolio
 
 ## About
-Hi, I'm Tichina (or Alex)! A Computer Science student passionate about Data, and the intersection between Analytics and Art to make Data-Driven Decisions and tell Stories, pursing a career in Data Science. Welcome to my Data Science portfolio repository! Here you will find a collection of my data science projects and writings, as well as my resume and LinkedIn profile. These materials demonstrate my skills, experience, and achievements as a data scientist. I hope they give you a sense of the value I can bring to your team or project. Thank you for visiting!
+Hi, I'm Tichina (or Alex)! A Computer Science student passionate about Data, and the intersection between Analytics and Art to make Data-Driven Decisions and tell Stories, pursing a career in Data Science.
 
 ## Table of Contents
 - [About](#about)
@@ -12,7 +12,7 @@ Hi, I'm Tichina (or Alex)! A Computer Science student passionate about Data, and
 - [Contacts](#contacts)
 
 ## Portfolio Projects
-A collection of my personal projects in my data analysis/science journey and other related projects
+Here you will find a collection of my data science projects and writings, as well as my resume and LinkedIn profile. These materials demonstrate my skills, experience, and achievements as a data scientist. I hope they give you a sense of the value I can bring to your team or project.
 
 ### College Majors and their Graduate
 **Presentation:** [Canva Presentation](https://www.canva.com/design/DAFWLHPdSKY/XsKzCawyOdRQczlrq6fZUQ/view?utm_content=DAFWLHPdSKY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
