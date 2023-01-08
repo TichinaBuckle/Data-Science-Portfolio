@@ -8,7 +8,7 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Table of Contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-	+ [Majors vs Graduates](#majors-vs-graduates)
+	+ [College Majors and their Graduate](#college-majors-and-their-graduate)
 	+ [Bellabeats Case Study](#bellabeats-case-study)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
@@ -16,7 +16,7 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Portfolio Projects
 A collection of my personal projects in my data analysis/science journey and other related projects
 
-### Majors vs Graduates
+### College Majors and their Graduate
 **Presentation:** [Canva Presentation](https://www.canva.com/design/DAFWLHPdSKY/XsKzCawyOdRQczlrq6fZUQ/view?utm_content=DAFWLHPdSKY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <br>
 **Code:** [Markdown](https://github.com/TichinaBuckle/Data-Analysis-Portfolio/blob/main/majors_vs_graduates_v3%20(1).ipynb)
