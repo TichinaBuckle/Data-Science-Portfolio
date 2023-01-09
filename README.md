@@ -21,7 +21,7 @@ Here you will find a collection of my data science projects and writings, as wel
 <br>
 **Description:** An analysis of 173 College majors and the expected outcomes of their Graduates as a means to identify trends and gain insights into the post-graduation jobs markets.
 <br>
-**Tools:** Juptier Notebook (Data Cleaning and Data Analysis), Google Sheets (Data Visualization), Canva (Presentation)
+**Tools:** Juptyer Notebook and Python (Data Cleaning and Data Analysis), Google Sheets (Data Visualization), Canva (Presentation)
 
 ### Bellabeats Case Study
 **Presentation:** [Google Slide Presentation](https://docs.google.com/presentation/d/1g8J6zGIMgqKfzyKkVqLq_z6daM6SgIfH3TxzPFwdANw/edit?usp=sharing)
