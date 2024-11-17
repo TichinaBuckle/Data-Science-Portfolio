@@ -14,6 +14,15 @@ Hi, I'm Tichina (or Alex)! A Computer Science student passionate about Data, and
 ## Portfolio Projects
 Here you will find a collection of my data science projects and writings, as well as my resume and LinkedIn profile. These materials demonstrate my skills, experience, and achievements as a data scientist. I hope they give you a sense of the value I can bring to your team or project.
 
+### Personal Accounts Dashboard
+**Dashboard:** [Tableau Dashboard](https://public.tableau.com/views/PersonalAccountsDashboard/PersonalAccountsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+<br>
+**Description:** Visualisation of a person's spending and income.
+<br>
+**Future Additions:** Investment and Savings Page.
+<br>
+**Tools:** Google Form (Data Collection), Google Sheets (Data Collection and Data Cleaning), Tableau Public (Data Visualization)
+
 ### How Your Degree Impacts Your Career
 **Presentation:** [Canva Presentation](https://www.canva.com/design/DAFWLHPdSKY/XsKzCawyOdRQczlrq6fZUQ/view?utm_content=DAFWLHPdSKY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <br>
