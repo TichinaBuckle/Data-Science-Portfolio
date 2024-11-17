@@ -43,9 +43,11 @@ A showcase of my data science projects, which demonstrate my skills in data coll
 **Tools:** R Studio (Data Cleaning and Analysis), Tableau Public (Data Visualization), Google Sheets (Data Visualization), Google Slide (Presentation)
 
 ## Certificates
-- Bachelor of Science in Computing with a major in Computer Science
+- Bachelor of Science in Computing with a major in Computer Science | 2025
   <br>
-- Google Data Analysis Professional Certificate
+- Key Performance Indicator Professional (KPIP) | 2024
+  <br>
+- Google Data Analysis Professional Certificate | 2022
 
 ## Contacts
 **LinkedIn:** [@tichinabuckle](https://www.linkedin.com/in/tichinabuckle/)
