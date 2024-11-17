@@ -6,6 +6,7 @@ Hi, I'm Tichina (or Alex)! A Computer Science student passionate about Data, and
 ## Table of Contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
+	+ [Personal Accounts Dashboard](#personal-accounts-dashboard)
 	+ [How Your Degree Impacts Your Career](#how-your-degree-impacts-your-career)
 	+ [Bellabeats Case Study](#bellabeats-case-study)
 - [Certificates](#certificates)
